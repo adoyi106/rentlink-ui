@@ -26,6 +26,8 @@
 
 # claude code
 .claude/
+AGENTS.md
+CLAUDE.md
 
 # debug
 npm-debug.log*
